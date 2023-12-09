@@ -54,3 +54,8 @@ CCTV8,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226715/1.m3
 欧美电影,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=24923327
 林正英电影,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1353685311
 电影1,http://hls.ye23.vip/wl/huya2205.php?id=11352886
+成龙电影,http://hms2904nc1972666634.live.aikan.miguvideo.com/wh7f454c46tw1597833161_-605154292/wd_r2/virtuallive/5102010211/150/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=139.198.127.250&timestamp=20230816073747&ContentId=265667553&timezone=UTC&mtv_session=fd80809f3f6b51a68ca8e0d327a5244a&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=31de3cf7ce30887e13ddcfcdd39350a2&咪咕
+成龙电影2,http://jxiptv.xn--9kqp7k2rd.com/svip/YY_.php?t=1354888751
+成龙电影3,http://hlsbkmgsplive.miguvideo.com/wd_r2/virtuallive/5102010211/150/index.m3u8?&encrypt=
+咪咕电影,http://hms2884nc1972666631.live.aikan.miguvideo.com/wh7f454c46tw1598749465_-366256696/wd_r3/cctv/gaoqingdapian/600/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=139.198.127.250&timestamp=20230816073748&ContentId=265218862&timezone=UTC&mtv_session=3a6b1c7737e83442360bc74c1db28160&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=6c0357e0703b1ce5780f688addd61842&咪咕
+咪咕电影2,http://hms2944nc1972666637.live.aikan.miguvideo.com/wh7f454c46tw1587902162_1768667353/wd_r3/cnr/chcjtyy/3000/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=139.198.127.250&timestamp=20230816073737&ContentId=265667645&timezone=UTC&mtv_session=1e2626f9fa52e9ed0b3e629dab7d7ad3&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=950d3a482d21f43d77d58540bfd2cbad&咪咕
