@@ -1,4 +1,4 @@
-总,#genre#
+中央频道,#genre#
 CCTV1,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001068/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 CCTV1,http://hms2944nc1972666638.live.aikan.miguvideo.com/wh7f454c46tw1581250417_885644752/wd_r2/cctv/cctv1hd/1200/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=139.198.127.250&timestamp=20230816073731&ContentId=265183188&timezone=UTC&mtv_session=daa1da1586a901a8da2361a3c74fb673&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=7ebdf5c15cb6d83de8422d8a58468f02&咪咕
 CCTV1,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226737/1.m3u8
@@ -13,6 +13,7 @@ CCTV6,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/322122639
 CCTV8,http://hlsbkmgsplive.miguvideo.com/wd_r2/2018/ocn/cctv8hd/1000/index.m3u8?&encrypt=
 CCTV8,http://zteres.sn.chinamobile.com:6060/000000001000/1000000001000031433/1.m3u8?channel-id=ystenlive&Contentid=1000000001000031433&livemode=1&stbId=3
 CCTV8,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226715/1.m3u8
+卫视频道,#genre#
 广东珠江,http://zteres.sn.chinamobile.com:6060/000000001000/1000000004000011655/1.m3u8?channel-id=ystenlive&Contentid=1000000004000011655&livemode=1&stbId=3
 广东珠江,http://zteres.sn.chinamobile.com:6060/000000001000/2000000003000000033/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000033&livemode=1&stbId=3
 广东珠江,http://39.134.19.229:6410/000000001000/1000000004000011655/1.m3u8?channel-id=ystenlive&Contentid=1000000004000011655&livemode=1&stbId=3&IASHttpSessionId=RR503720231124053529907980
