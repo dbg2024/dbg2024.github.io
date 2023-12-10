@@ -6,6 +6,7 @@ CCTV1,http://zteres.sn.chinamobile.com:6060/000000001000/6000000001000029752/1.m
 CCTV1,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226667/1.m3u8
 凤凰咨讯,http://[2409:8087:2001:20:2800:0:df6e:eb27]/wh7f454c46tw3352677969_1732462333/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8?icpid=3&RTS=1668336154&from=40&popid=40&hms_devid=2293&prioritypopid=40&vqe=3
 凤凰咨讯,http://[2409:8087:2001:20:2800:0:df6e:eb26]:80/PLTV/1/224/3221231003/1.m3u8
+岭南戏曲,https://m.gdtv.cn/tvChannelDetail/15
 岭南戏曲,http://www.namewee.xyz/gudou.php?id=1460
 茂名综合,http://www.namewee.xyz/gudou.php?id=3012_4500
 茂名文化生活,http://www.namewee.xyz/gudou.php?id=3013_4500
