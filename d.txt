@@ -6,7 +6,8 @@ CCTV1,http://zteres.sn.chinamobile.com:6060/000000001000/6000000001000029752/1.m
 CCTV1,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226667/1.m3u8
 凤凰咨讯,http://[2409:8087:2001:20:2800:0:df6e:eb27]/wh7f454c46tw3352677969_1732462333/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8?icpid=3&RTS=1668336154&from=40&popid=40&hms_devid=2293&prioritypopid=40&vqe=3
 凤凰咨讯,http://[2409:8087:2001:20:2800:0:df6e:eb26]:80/PLTV/1/224/3221231003/1.m3u8
-岭南戏曲,http://gxdl-lhs.8866.org:85/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
+岭南戏曲,https://tcdn.itouchtv.cn/live/lnxq.m3u8?t_token=1f8c7b1e7921942c8a6163cd47c5274a-5i%2FYNyUE%2FgisQopdJXCVHWDzJxzZi2KtYXtBeXtq2%2FHFfA%2BLl7LuzIS7Ai7%2BtTwD3Beuac35gzbNA2JrnklCWNqEI3%2BSOJStGV%2BIdsRlheDMfTNYDjQJXQXVKqY9KXk9UyVM6JG%2BGwKJJvNknm4DEkgmgFZdV1CW0vwIQBdx03o%2BsbVyRbqFpLQJleYouT2FGCQjOKFSjY0qxwtpV1lvceDINqfdMat%2BmK7oJ%2BvfW1u8kqnbPHfGzBi%2FO1TNA6T5esVJbLF%2BCYvI0WwsLIqS6V%2FNSo7pJJMAb7da3EKFG758ssOYHkt43ytJKkteIl3njvO0DpFgw2yRFL2ZFsz4fkGAfE%2FC%2FzEGbupmiXyH9TAXqHAVR72cbPxTxN54mOmUMX10ok5Ior%2BMcaUZy59wLGjwUm5RGBmWcsdGLG4F6h4yuSB%2FxxGtO6%2BIJ5y52OmP6Xq8h%2FuX1WH%2F20JxBfUo1uPQrIboM%2F7VbUKQ0kqk0Cs%3D
+岭南戏曲http://gxdl-lhs.8866.org:85/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
 岭南戏曲, http://gmxw.7766.org:808/hls/16/index.m3u8
 岭南戏曲,http://www.namewee.xyz/gudou.php?id=1460
 岭南戏曲,http://27.36.62.162:9090/live/1460.m3u8?t=iG7pVn7s/zuD1QnflH/IjQ==&u=18998910474&p=1&pid=&cid=30&d=61bc79e2f63c4cd8&sid=yR4G/5KhpQYe3J4+VIYHtA==&r=20231211134859&e=20231211194904&nc=e1sauiNZIVQa&a=1&v=2&isSuma=1&hlsSessionID=1457760599755783243&srchost=172.16.149.181:8060&gid=ZhZNleug27M63nqpOzjVLA%3D%3D
