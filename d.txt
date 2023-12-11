@@ -6,9 +6,10 @@ CCTV1,http://zteres.sn.chinamobile.com:6060/000000001000/6000000001000029752/1.m
 CCTV1,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226667/1.m3u8
 凤凰咨讯,http://[2409:8087:2001:20:2800:0:df6e:eb27]/wh7f454c46tw3352677969_1732462333/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8?icpid=3&RTS=1668336154&from=40&popid=40&hms_devid=2293&prioritypopid=40&vqe=3
 凤凰咨讯,http://[2409:8087:2001:20:2800:0:df6e:eb26]:80/PLTV/1/224/3221231003/1.m3u8
+岭南戏曲,http://gxdl-lhs.8866.org:85/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
+岭南戏曲, http://gmxw.7766.org:808/hls/16/index.m3u8
 岭南戏曲,http://www.namewee.xyz/gudou.php?id=1460
 岭南戏曲,http://27.36.62.162:9090/live/1460.m3u8?t=iG7pVn7s/zuD1QnflH/IjQ==&u=18998910474&p=1&pid=&cid=30&d=61bc79e2f63c4cd8&sid=yR4G/5KhpQYe3J4+VIYHtA==&r=20231211134859&e=20231211194904&nc=e1sauiNZIVQa&a=1&v=2&isSuma=1&hlsSessionID=1457760599755783243&srchost=172.16.149.181:8060&gid=ZhZNleug27M63nqpOzjVLA%3D%3D
-岭南戏曲,http://gxdl-lhs.8866.org:85/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
 茂名综合,http://www.namewee.xyz/gudou.php?id=3012_4500
 茂名文化生活,http://www.namewee.xyz/gudou.php?id=3013_4500
 CCTV6,http://hlsbkmgsplive.miguvideo.com/wd_r2/ocn/cctv6hd/3000/index.m3u8?&encrypt=
@@ -18,10 +19,10 @@ CCTV6,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/322122639
 广东台,http://glive.grtn.cn/live/health.m3u8
 广东台,http://glive.grtn.cn/live/jilupian.m3u8
 广东台,http://glive.grtn.cn/live/lizhi.m3u8
-大湾区卫视,http://8.217.90.28:9999/触电.php?id=nfws
 CCTV8,http://hlsbkmgsplive.miguvideo.com/wd_r2/2018/ocn/cctv8hd/1000/index.m3u8?&encrypt=
 CCTV8,http://zteres.sn.chinamobile.com:6060/000000001000/1000000001000031433/1.m3u8?channel-id=ystenlive&Contentid=1000000001000031433&livemode=1&stbId=3
 CCTV8,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226715/1.m3u8
+大湾区卫视,http://8.217.90.28:9999/触电.php?id=nfws
 卫视频道,#genre#
 广东珠江,http://zteres.sn.chinamobile.com:6060/000000001000/1000000004000011655/1.m3u8?channel-id=ystenlive&Contentid=1000000004000011655&livemode=1&stbId=3
 广东珠江,http://zteres.sn.chinamobile.com:6060/000000001000/2000000003000000033/1.m3u8?channel-id=hnbblive&Contentid=2000000003000000033&livemode=1&stbId=3
