@@ -6,7 +6,6 @@ CCTV1,http://zteres.sn.chinamobile.com:6060/000000001000/6000000001000029752/1.m
 CCTV1,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226667/1.m3u8
 凤凰咨讯,http://[2409:8087:2001:20:2800:0:df6e:eb27]/wh7f454c46tw3352677969_1732462333/ott.mobaibox.com/PLTV/3/224/3221228524/index.m3u8?icpid=3&RTS=1668336154&from=40&popid=40&hms_devid=2293&prioritypopid=40&vqe=3
 凤凰咨讯,http://[2409:8087:2001:20:2800:0:df6e:eb26]:80/PLTV/1/224/3221231003/1.m3u8
-岭南戏曲,https://tcdn.itouchtv.cn/live/lnxq.m3u8?t_token=c0bc8885bd3045b490f22caa6de566ad-lIgmFLTbcCnZoXPjUbXFSEpqJz3nozaF87JA0fHIWWG9hEkulxnbN2NnT0hjmm0osaDfdoTa6Bb%2BJvHSmFKi5td2UfW0mw0lhFLD1ZLUtjj%2Fem%2F5yc%2B5iy%2B78ZUO%2F3%2BTzP3%2BAi4BVfqnyNJGms0Q08kMRU8lE62oCewSWNbbh1MMlbLKSZluBV%2FF5tNYKEhyswJk1UVjk1XICeQiY67tAYG4PJaAFD2qFOLCstNzOxCF30Wqz%2FwOlkD2qUW7XwXqHKOHRt9VySeHSci6rduFHIypDPj4kbPBIlJ8QcJ0fjjZP9mnVVU6CnhuBGgVzsvQxWOUGz2DOFDcNZSccELtYBwwZOVOtu0LWCKVIgW1wvMhre7xvqFei8F1kqZDrqlujPVo0zA0RjThuQEL9ckkiMuVoAzyT8KvYr99VlEG6EtPr6MEbJp6HCpCHfW0bqes
 岭南戏曲http://gxdl-lhs.8866.org:85/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
 岭南戏曲, http://gmxw.7766.org:808/hls/16/index.m3u8
 岭南戏曲,http://www.namewee.xyz/gudou.php?id=1460
