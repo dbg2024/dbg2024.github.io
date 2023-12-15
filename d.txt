@@ -135,6 +135,21 @@ CCTV8,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/322122639
 老倌有戏11,https://vod.gdtv.cn/m3u8/202312/170228758597.m3u8
 老倌有戏12,https://vod.gdtv.cn/m3u8/202312/170235640842.m3u8
 
+七十二家房客,#genre#
+1,https://vod.gdtv.cn/m3u8/202312/170239381865.m3u8
+2,https://vod.gdtv.cn/m3u8/202312/170239394482.m3u8
+3,https://vod.gdtv.cn/m3u8/202312/170248243537.m3u8
+4,https://vod.gdtv.cn/m3u8/202312/170248249599.m3u8
+5,https://vod.gdtv.cn/m3u8/202312/170256729035.m3u8
+14,https://vod.gdtv.cn/m3u8/202312/170256726319.m3u8
+
+外来媳妇本地郎,#genre#
+1,https://vod.gdtv.cn/m3u8/202312/170142293431.m3u8
+2,https://vod.gdtv.cn/m3u8/202312/170142312351.m3u8
+3,https://vod.gdtv.cn/m3u8/202312/170142332634.m3u8
+4,https://vod.gdtv.cn/m3u8/202312/170142351616.m3u8
+5,https://vod.gdtv.cn/m3u8/202312/170142370094.m3u8
+1hao,https://vod.gdtv.cn/m3u8/202312/170142390716.m3u8
 电影,#genre#
 欧美电影,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=24923327
 林正英电影,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1353685311
