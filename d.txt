@@ -131,7 +131,6 @@ CCTV8,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/322122639
 欧美电影,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=24923327
 林正英电影,http://jxiptv.xn--9kqp7k2rd.com/svip/yy.php?t=1353685311
 电影1,http://hls.ye23.vip/wl/huya2205.php?id=11352886
-成龙电影,http://hms2904nc1972666634.live.aikan.miguvideo.com/wh7f454c46tw1597833161_-605154292/wd_r2/virtuallive/5102010211/150/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=139.198.127.250&timestamp=20230816073747&ContentId=265667553&timezone=UTC&mtv_session=fd80809f3f6b51a68ca8e0d327a5244a&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=31de3cf7ce30887e13ddcfcdd39350a2&咪咕
 成龙电影2,http://jxiptv.xn--9kqp7k2rd.com/svip/YY_.php?t=1354888751
-成龙电影,http://hlsbkmgsplive.miguvideo.com/wd_r2/virtuallive/5102010211/150/index.m3u8?&encrypt=
-咪咕电影,http://hms2884nc1972666631.live.aikan.miguvideo.com/wh7f454c46tw1598749465_-366256696/wd_r3/cctv/gaoqingdapian/600/01.m3u8?msisdn=guest&Channel_ID=0119_04102000-99000_400300000040002&client_ip=139.198.127.250&timestamp=20230816073748&ContentId=265218862&timezone=UTC&mtv_session=3a6b1c7737e83442360bc74c1db28160&HlsSubType=1&HlsProfileId=1&nphaid=0&encrypt=6c0357e0703b1ce5780f688addd61842&咪咕
+
+
