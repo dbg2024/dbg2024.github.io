@@ -3,7 +3,7 @@ CCTV1,http://tvpull.dxhmt.cn/tv/11481-4.m3u8
 CCTV1,https://live-play.cctvnews.cctv.com/cctv/merge_cctv13.m3u8
 CCTV1,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226737/1.m3u8
 CCTV1,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226667/1.m3u8
-无线新闻,http://live.cooltv.top/tv/tvb.php?id=0&hq
+无线新闻,http://61.140.234.212:4000/rtp/239.77.0.73:5146
 无线新闻,https://vod.gdtv.cn/m3u8/202312/170142351616.m3u8
 CCTV3,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226720/1.m3u8
 CCTV3,http://zteres.sn.chinamobile.com:6060/000000001000/1000000001000032695/1.m3u8?channel-id=ystenlive&Contentid=1000000001000032695&livemode=1&stbId=3
@@ -17,7 +17,7 @@ CCTV6,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226699/1.m3
 CCTV6,http://zteres.sn.chinamobile.com:6060/000000001000/1000000001000016466/1.m3u8?channel-id=ystenlive&Contentid=1000000001000016466&livemode=1&stbId=3
 CCTV6,http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226393/index.m3u8
 广东台,http://glive.grtn.cn/live/lizhi.m3u8
-岭南戏曲,http://61.140.234.212:4000/rtp/239.77.0.16:5146
+岭南戏曲,http://61.140.234.212:4000/rtp/239.77.0.210:5146
 岭南戏曲,https://vod.gdtv.cn/m3u8/202312/170142351616.m3u8
 CCTV8,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226715/1.m3u8
 CCTV8,http://[2409:8087:2001:20:2800:0:df6e:eb12]:80/wh7f454c46tw1535268831_1299436249/ott.mobaibox.com/PLTV/3/224/3221228079/index.m3u8?icpid=3&RTS=1674385945&from=40&popid=40&hms_devid=2112&prioritypopid=40&vqe=3
