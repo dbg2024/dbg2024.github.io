@@ -112,8 +112,8 @@ CCTV8,http://39.134.24.166/dbiptv.sn.chinamobile.com/PLTV/88888888/224/322122639
 湖南卫视,http://[2409:8087:7000:20:1000::22]:6060/yinhe/2/ch00000090990000001339/index.m3u8?virtualDomain=yinhe.live_hls.zte.com
 
 电影,#genre#
-李连杰电影,http://tx-screenshots.flv.huya.com/src/1394565196-1394565196-5989611908959830016-2789253848-10057-A-0-1.flv?
-李连杰电影,https://vod.gdtv.cn/m3u8/202312/170142351616.m3u8
+豆瓣电影,http://epg.112114.xyz/douyu/8770422
+豆瓣电影,https://vod.gdtv.cn/m3u8/202312/170142351616.m3u8
 赌神电影,http://mmitv.top/pltv/yy.php?id=24921161
 赌神电影,https://vod.gdtv.cn/m3u8/202312/170142351616.m3u8
 1905电影,http://php.jdshipin.com:8880/1905.php?id=1905dy
