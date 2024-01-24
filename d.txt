@@ -45,8 +45,8 @@ CCTV8,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226715/1.m3
 经典影视,http://mmitv.top/pltv/yy.php?id=1382627144
 电影风华,https://tc-tc2-interact.douyucdn2.cn/dyliveflv1a/122402rK7MO9bXSq_900.m3u8
 林正英电影,http://mmitv.top/pltv/yy.php?id=1351505899
-黑莓电影,http://epg.112114.xyz/douyu/4246519
-NewTV超级电影,http://epg.112114.xyz/douyu/1274132
+黑莓电影,http://openhls-tct.douyucdn2.cn/dyliveflv3/2516864rEvCXWKrl_2000.m3u8?txSecret=07cf87cfad8607afd84945d14b653743&txTime=65b0b419&token=h5-douyu-0-2516864-905e6f70dcad9b0dcab7f10f88c52773&did=10000000000000000000000000001501&origin=tct&vhost=play3&sid=378519029
+NewTV超级电影,http://openhls-tct.douyucdn2.cn/dyliveflv1a/4246519r2ZW8JB4g_2000.m3u8?txSecret=9627d055df6da147c3ec5edc85cd44f5&txTime=65b0b3b2&token=h5-douyu-0-4246519-1572c78f1eb1b63a05bbb69686d73043&did=10000000000000000000000000001501&origin=tct&vhost=play2&sid=373010025
 惊悚电影,http://mmitv.top/pltv/yy.php?id=24066336
 NewTV动作电影,http://[2409:8087:7000:20:1000::22]:6060/000000001000/6000000006000060630/index.m3u8?channel-id=wasusyt&Contentid=6000000006000060630&livemode=1&stbId=3
-IHOT爱怀旧,http://epg.112114.xyz/douyu/2516864
+IHOT爱怀旧,http://openhls-tct.douyucdn2.cn/dyliveflv3/1274132rPVrqa9nY_2000.m3u8?txSecret=97cd8f04210bdf8ef4adddb61a8a3125&txTime=65b0b697&token=h5-douyu-0-1274132-3c714dacbdea21b3b86b8b53e064636b&did=10000000000000000000000000001501&origin=tct&vhost=play3&sid=379772927
