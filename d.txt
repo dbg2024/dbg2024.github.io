@@ -43,6 +43,7 @@ CCTV8,http://120.196.232.124:8088/rrs03.hw.gmcc.net/PLTV/651/224/3221226715/1.m3
 动物世界,http://43.138.170.29:35455/yy/1382749889
 赌神电影,http://43.138.170.29:35455/yy/24921161
 1905电影,https://tc-tc2-interact.douyucdn2.cn/dyliveflv1/85894rmovieChow_900p.m3u8
+经典电影,http://43.138.170.29:35455/yy/1382627144
 成龙电影,http://43.138.170.29:35455/yy/34460526
 发哥,http://43.138.170.29:35455/yy/1354888733
 电影风华,https://tc-tc2-interact.douyucdn2.cn/dyliveflv1a/122402rK7MO9bXSq_900.m3u8
