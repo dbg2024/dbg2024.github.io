@@ -7,7 +7,7 @@ CCTV3,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225799/index.m3u8
 广东台,http://glive.grtn.cn/live/lizhi.m3u8
 广东台,http://glive.grtn.cn/live/lizhi.m3u8
 CCTV6,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8
-岭南戏曲,http://epg.112114.xyz/douyu/6566671
+岭南戏曲, http://113.110.72.121:808/hls/22/index.m3u8
 岭南戏曲,http://183.11.239.32:808/hls/16/index.m3u8
 岭南戏曲,http://www.22803189.xyz:8001/rtp/239.77.0.16:5146
 岭南戏曲,http://mx3.triumen.cn:8888/rtp/239.77.0.16:5146
