@@ -29,7 +29,7 @@ CCTV8,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225795/index.m3u8
 浙江卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226339/index.m3u8
 电影,#genre#
 金鹰卡通,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225654/index.m3u8
-少儿频道,http://[2409:8087:7001:20:1000::95]:6610/000000001000/8145334647720731271/index.m3u8?channel-id=wasusyt&Contentid
+少儿频道,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8
 动物世界,http://43.138.170.29:35455/yy/1382749889
 赌神电影,http://43.138.170.29:35455/yy/24921161
 1905电影,https://tc-tc2-interact.douyucdn2.cn/dyliveflv1/85894rmovieChow_900p.m3u8
