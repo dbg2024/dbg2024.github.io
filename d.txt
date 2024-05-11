@@ -1,5 +1,5 @@
 中央频道,#genre#
-CCTV1,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225816/index.m3u8
+CCTV1,https://ldncctvwbndhwy.cntv.myhwcdn.cn/ldncctvwbnd/ldcctv1_2/index.m3u8
 电影经典,http://43.138.170.29:35455/yy/1382627144
 CCTV3,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225799/index.m3u8
 广东台,http://glive.grtn.cn/live/health.m3u8
