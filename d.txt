@@ -12,7 +12,6 @@ CCTV6,https://epg.pw/stream/4ef9910f0b25f00e6dd8fee4dfa64e36044501c7fa50c1e7f94f
 CCTV8,http://101.18.25.87:808/hls/8/index.m3u8
 大湾区卫视,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226442/index.m3u8
 卫视频道,#genre#
-广东珠江,http://[2409:8087:5e08:24::5]:6610/200000001898/460000089800010091/1.m3u8?IASHttpSessionId=RR249520240423063905119503&ispcode=1219
 广东珠江,http://stag.superset.tr8.ltd:8888/rtp/239.77.0.3:5146
 广东珠江,http://120.197.112.28:9901/tsfile/live/1019_1.m3u8
 广东珠江,http://113.86.204.95:9999/udp/239.77.0.114:5146
