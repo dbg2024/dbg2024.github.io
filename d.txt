@@ -4,7 +4,7 @@ CCTV1,https://ldncctvwbndhwy.cntv.myhwcdn.cn/ldncctvwbnd/ldcctv1_2/index.m3u8
 CCTV3,http://[2409:8087:1a01:df::4077]/PLTV/88888888/224/3221225799/index.m3u8
 深圳卫视,http://116.232.116.101:8888/rtp/239.45.3.231:5140$1920x1080
 CCTV6,https://epg.pw/stream/4ef9910f0b25f00e6dd8fee4dfa64e36044501c7fa50c1e7f94f4dcdf900d789.m3u8
-岭南戏曲,http://gs.jianghua.fun:8888/rtp/239.77.0.16:5146$720x576
+岭南戏曲,http://113.86.204.79:9999/rtp/239.77.0.122:5146$1920x1080
 岭南戏曲,http://59.34.94.178:4022/udp/239.77.0.16:5146
 CCTV8,http://101.18.25.87:808/hls/8/index.m3u8
 大湾区卫视,http://113.93.51.233:10000/rtp/239.77.0.215:5146$1920x1080
