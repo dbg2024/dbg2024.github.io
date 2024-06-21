@@ -22,15 +22,7 @@ CCTV8,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/2
 电影,#genre#
 金鹰卡通,http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225654/index.m3u8
 少儿频道,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8
-动物世界,http://43.138.170.29:35455/yy/1382749889
-赌神电影,http://43.138.170.29:35455/yy/24921161
 1905电影,https://tc-tc2-interact.douyucdn2.cn/dyliveflv1/85894rmovieChow_900p.m3u8
-经典电影,http://43.138.170.29:35455/yy/1382627144
-成龙电影,http://43.138.170.29:35455/yy/34460526
-发哥,http://43.138.170.29:35455/yy/1354888733
 电影风华,https://tc-tc2-interact.douyucdn2.cn/dyliveflv1a/122402rK7MO9bXSq_900.m3u8
-超级电影,http://43.138.170.29:35455/yy/1382736833
-惊悚电影,http://43.138.170.29:35455/yy/1454587259
-动作电影,http://43.138.170.29:35455/yy/1354931495
 豆瓣电影,http://159.75.85.63:35455/douyu/8770422
 
