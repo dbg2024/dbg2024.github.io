@@ -8,9 +8,7 @@ CCTV8,http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/2
 大湾区卫视,http://www.recker.cc:4022/rtp/239.77.0.215:5146
 卫视频道,#genre#
 广东珠江,http://www.recker.cc:4022/rtp/239.77.0.1:5146
-广东卫视,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN181359BESTVSMGSMG/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUW%2B%2FF4NzOzOt3cAWjhMHEuMwoDIwMxbrlyyVy9x6ZDKn1U8f2vJUVL98LlyeZUOMSmC30dkrUFt%2FE8JGKMphXYE
-广东卫视,http://39.134.66.4/PLTV/88888888/224/3221225962/index.m3u8
-广东卫视,http://114.249.18.134:4022/rtp/239.3.1.142:8048
+广东卫视,http://[2409:8087:5e01:34::20]:6610/ZTE_CMS/00000001000000060000000000000311/index.m3u8?IAS
 厦门卫视,http://[2409:8087:5e01:34::23]:6610/ZTE_CMS/00000001000000060000000000000193/index.m3u8?fmmv6
 海南卫视,http://[2409:8087:1a0b:df::4020]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226465/index.m3u8
 四川卫视,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226338/index.m3u8
