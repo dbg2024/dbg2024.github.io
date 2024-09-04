@@ -22,8 +22,7 @@ CCTV6,http://120.237.241.82:4000/udp/239.77.0.35:5146
 广西卫视,http://120.237.241.82:4000/udp/239.77.0.66:5146
 延边卫视,http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8#http://live.ybtvyun.com/video/s10006-44f040627ca1/index.m3u8
 延边卫视,http://120.237.241.82:4000/udp/239.77.0.10:5146
-浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
-浙江卫视,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226339/index.m3u8
+黄河卫视,http://liveflash.sxrtv.com/live/huanghe.m3u8?sub_m3u8=true&edge_slice=true
 内蒙卫视,https://livestream-bt.nmtv.cn/nmtv/2314general.m3u8?txSecret=dc348a27bd36fe1bd63562af5e7269ea&txTime=771EF880
 电影,#genre#
 金鹰卡通,http://119.129.172.164:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
