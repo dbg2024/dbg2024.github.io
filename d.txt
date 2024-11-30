@@ -37,7 +37,7 @@ CCTV6,http://120.237.241.82:4000/udp/239.77.0.35:5146
 电影,#genre#
 电影1,https://api.livednow.org/migu/625703337?sign=gAAAAABnJcJqeZSl1tY8yKpMaPYxLBiZYY6UFLi5qXIc4HEV83u7bqr-kefr3aQ2W6Fj7slWy0JQjWMxntqvsfTbbYZKmu6QxaKnbruMw7_PT5p8YiWzdMPJrhwosHvxenhe94DSEUwzM8ixhRAFjPuhE4vyuSKCCYPFPSdma03VOaA6yUsCx6qMFH-8fli0ScbqOz1gtK-b76pPSHsRgu8KzeVSBgBSMQ%3D%3D
 电影2,https://api.livednow.org/migu/619495952?sign=gAAAAABnJcJqrIJgrcoIeFRkKbrfdSiF8jXAy1t1Wa359mOTG18s3DkIUs12M5uMK3jiTG0IHQ3hzG5f-7mK3WtvR55XvoAIqQXO_aujy6A-Rdf3A_PmEpZE6v5U-ZbcUgWSFOQhePE5KDAe5a5vaLoArcoGBUIjI_0vSdP0enIPN4iaLIPzrzwB1q7kDdTRVjaxCIhP_cLQkv5i5gOXLLkZ1tqzfBZkHw%3D%3D
-电影3,https://hlszymgsplive.miguvideo.com/wd_r3/cctv/gaoqingdapian/600/index.m3u8?msisdn=5ca267a06d5de4c55c2261687056b740&mdspid=&spid=699004&netType=0&sid=5500315684&pid=2028597139&timestamp=20241125114055&Channel_ID=0131_10010001005&ProgramID=629943678&ParentNodeID=-99&assertID=5500315684&client_ip=2409:8a55:8068:5461:4bc1:3728:bd41:9cd2&SecurityKey=20241125114055&promotionId=&mvid=5101034200&mcid=500020&playurlVersion=WX-A1-7.11.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgsph5&tid=h5&encrypt=2c371d5cd524fd43176a75c270eccf0e&sv=10000&ct=h5
+电影3,http://aktv.top/AKTV/live/aktv/null-23/AKTV.m3u8
 1905电影,http://php.jdshipin.com:8880/1905.php?id=1905dy
 电影风华,http://113.94.58.41:10010/udp/239.77.0.104:5146
 豆瓣电影,http://113.94.58.41:10010/udp/239.77.1.138:5146
