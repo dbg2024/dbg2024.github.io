@@ -10,7 +10,7 @@ CCTV1,http://120.237.241.82:4000/udp/239.77.0.30:5146
 佛山影视,http://php.jdshipin.com:8880/fstv.php?id=fsys
 CCTV6,
 CCTV6,http://mobilelive-timeshift.ysp.cctv.cn/timeshift/ysp/2013693901/timeshift.m3u8?delay=0&cdn=5202
-精品剧场,http://39.134.136.161:6610/000000001000/2000000004000000002/index.m3u8?livemode=1&stbId=10&channel-id=hnbblive&Contentid=2000000004000000002
+jp剧场,http://39.134.136.161:6610/000000001000/2000000004000000002/index.m3u8?livemode=1&stbId=10&channel-id=hnbblive&Contentid=2000000004000000002
 大湾区卫视,http://[2409:8087:5e00:24::1e]:6060/000000001000/1000000002000011619/1.m3u8
 大湾区卫视,http://120.237.241.82:4000/udp/239.77.1.12:5146
 卫视频道,#genre#
@@ -40,6 +40,6 @@ CCTV6,http://mobilelive-timeshift.ysp.cctv.cn/timeshift/ysp/2013693901/timeshift
 电影3,http://120.77.28.4:8648/douyu.php?id=6566671
 电影4,http://120.77.28.4:8648/douyu.php?id=1377142
 1905电影,http://php.jdshipin.com:8880/1905.php?id=1905dy
-亚洲电影,http://39.134.136.161:6610/000000001000/2000000004000000006/index.m3u8?livemode=1&stbId=10&channel-id=hnbblive&Contentid=2000000004000000006
+yz电影,http://39.134.136.161:6610/000000001000/2000000004000000006/index.m3u8?livemode=1&stbId=10&channel-id=hnbblive&Contentid=2000000004000000006
 dz电影,http://39.134.136.161:6610/000000001000/8103864434730665389/index.m3u8?livemode=1&stbId=10&channel-id=ystenlive&Contentid=8103864434730665389
 黑莓电影,http://ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225743/1.m3u8
